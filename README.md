@@ -10,7 +10,7 @@ This Repository will help you install a Linux distro or any other operating syst
 7) Next, change the data size
 8) Next, click on customize hardware
 9) Change the following 
---> RAM size depending on your laptop or PC
+--> RAM size depending on your laptop or PC  ( Example- if you have 16 Gb RAM then giev atleat 6-8Gb ram)
 --> And CPU Cores (I feel that 4 Cores is enough)
 10) Run the VMware of your OS.
 
