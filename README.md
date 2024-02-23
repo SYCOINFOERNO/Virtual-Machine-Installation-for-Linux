@@ -1,7 +1,7 @@
 # Virtual-Machine-Installation-for-Linux
 This Repository will help you install a Linux distro or any other operating system of your choice.
 
-1) Install the VMware software from the offical website(https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html)
+1) Install the VMware software from the offical website(https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html  or  https://www.virtualbox.org)
 2) After installing the application, download your Linux distro or flavour
 3) In the VMware software create a new virtual machine
 4) Next browse for your .iso file and click next
