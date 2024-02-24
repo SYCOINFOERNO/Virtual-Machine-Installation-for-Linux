@@ -22,6 +22,6 @@ This Repository will help you install a Linux distro or any other operating syst
 4) https://archlinux.org/download/
 5) https://www.debian.org/CD/
 6) https://get.opensuse.org/desktop/
-7) https://access.redhat.com/downloads
+7) https://access.redhat.com/downloads                                                                       
    And Many more
    
