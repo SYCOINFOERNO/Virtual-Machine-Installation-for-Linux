@@ -17,7 +17,7 @@ This Repository will help you install a Linux distro or any other operating syst
 
 PS:- Here are links to some Popular Distros of Linux
 
-    You can Use this drive for some of the linux distros -- https://drive.google.com/drive/folders/12Lx71WOuXRDNpjCuwydIUMayleWADHL0?usp=sharing
+You can Use this drive for some of the linux distros -- https://drive.google.com/drive/folders/12Lx71WOuXRDNpjCuwydIUMayleWADHL0?usp=sharing
     
 1) https://www.linuxmint.com/download.php
 2) https://ubuntu.com/download/desktop
