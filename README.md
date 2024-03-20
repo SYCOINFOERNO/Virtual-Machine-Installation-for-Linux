@@ -15,7 +15,10 @@ This Repository will help you install a Linux distro or any other operating syst
 10) Run the VMware of your OS.
 
 
-    PS:- Here are links to some Popular Distros of Linux
+PS:- Here are links to some Popular Distros of Linux
+
+    You can Use this drive for some of the linux distros -- https://drive.google.com/drive/folders/12Lx71WOuXRDNpjCuwydIUMayleWADHL0?usp=sharing
+    
 1) https://www.linuxmint.com/download.php
 2) https://ubuntu.com/download/desktop
 3) https://fedoraproject.org/workstation/download/
